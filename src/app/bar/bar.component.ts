@@ -6,7 +6,7 @@ import { CommonModule } from '@angular/common';
   standalone: true,
   imports: [CommonModule],
   templateUrl: './bar.component.html',
-  styleUrls: ['./bar.component.less']
+  styleUrls: []
 })
 export class BarComponent {
 
